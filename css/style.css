@@ -1,0 +1,30 @@
+#main{
+	border: solid;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+#header{
+	background-color: purple;
+}
+#search_bar{
+	text-align-last: right;
+	color: white;
+}
+#table-form{
+	
+}
+
+#error-messages{
+	color: red;
+	background-color:lightpink;
+	justify-content: flex-end;
+	top: 150px;
+	left: 50px;
+}
+#success-messages{
+	color: green;
+	background-color: lightgreen;
+	top: 150px;
+	left: 50px;
+
+}
